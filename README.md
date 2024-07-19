@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @hassanjawedwani
+- 👀 I’m interested in making projects and make them available for everyone to use
+- 🌱 I’m currently learning Web Development
+- 💞️ I’m looking to make public contributions
+- 📫 To connect send a mail at hassanjawedwani@gmail.com
